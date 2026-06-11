@@ -44,8 +44,8 @@ and make everyday processes flow better.
 
 ## 📫 Get In Touch
 
-- 🌐 Portfolio: [[your portfolio URL]](https://tomstan.com.au/)
-- 💼 LinkedIn: [[your LinkedIn URL]](https://www.linkedin.com/in/tom-stan/)
+- 🌐 Portfolio: [Tom Stan](https://tomstan.com.au/)
+- 💼 LinkedIn: [Tom Stan](https://www.linkedin.com/in/tom-stan/)
 
 ---
 
